@@ -4,5 +4,5 @@ rpcs:
 chain_ids:
   arbitrum: 42161
   avalanche: 43114
-private_key: cf9c87ee2f5a5d9db4cb0434b81c1218bacefc5224146ce4e4c309df6deae849
-user_wallet_address: 0x74A19C576f1DDA4bE9C7199a3c230dCD59cFB6EF
+private_key: 
+user_wallet_address: 
